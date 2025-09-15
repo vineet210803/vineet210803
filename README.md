@@ -6,7 +6,7 @@
 🎓 Final Year Student of B.Tech in Computer Science, **BIET Jhansi** (2022–2026)  
 🚀 **Full Stack Web Developer (MERN | Next.js)**  
 📚 Competitive Programmer  
-⭐ **1590 @CodeChef | 1340 @Codeforces | 1723 @LeetCode | 1750 @GFG**  
+⭐ **1590 @CodeChef | 1463 @Codeforces | 1723 @LeetCode | 1750 @GFG**  
 🧑‍🏫 Mentor at **DevsOnLoop**  
 🎬 Video Editor  
 📖 Online Physics Tutor (up to class 12)  
